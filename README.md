@@ -1,5 +1,5 @@
 # teste-fasters
-Este repositório contém o código em python como resposta para o desafio de avaliação da fasters - netuno
+Este repositório contém o código em python como resposta para o desafio de avaliação da fasters - netuno: 
 Este é um script em Python que implementa uma lista de tópicos, onde o usuário pode realizar várias operações, tais como cadastrar um novo tópico, listar todos os tópicos, selecionar um tópico específico, excluir todos os tópicos, excluir um tópico específico ou selecionar tópicos em um intervalo.
 
 O script começa importando as bibliotecas "os" e "platform". Em seguida, há uma lista de tópicos chamada "lista". A função "limpar_tela()" é definida para limpar a tela do console, dependendo do sistema operacional em que o script está sendo executado. Se o sistema operacional for Windows, a função usa o comando "os.system('cls')" para limpar a tela, caso contrário, usa o comando "os.system('clear')".
